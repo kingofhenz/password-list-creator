@@ -9,3 +9,4 @@ def guess_password():
                 guess = ''.join(guess)
                 f.write(guess)
                 f.write("\n")
+guess_password()
